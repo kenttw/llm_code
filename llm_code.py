@@ -4,6 +4,6 @@ data = []
 total = 0
 
 for d in data:
-  total = total + d
+    total = total + d
 
 avg = total/len(data)
